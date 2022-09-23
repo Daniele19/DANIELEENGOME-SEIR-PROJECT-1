@@ -1,5 +1,7 @@
 # DANIELEENGOME-SEIR-PROJECT-1
+
 TITLE OF THE PROJECT 1 : HANGMAN GAME
+
 Description of the game : The process is to give the plqyer 6 guesses to find a random word taken from a category of the game. The three categories
 that we choose for the game are fruits, animals and countries.
 When the game loads, the game asks the user to select an option between fruits, animals, and countries and generates a random word from the 
@@ -24,10 +26,13 @@ LIST OF TECHNOLOGIES USED: HTML, CSS AND JAVASCRIPT
 
 
 GETTING STARTED
+
  [play the game here ]([)](https://HANGMAN-PROJECT.danielehaenel.repl.co)
  
  
  
 FUTURE ENHANCEMENTS:
+
 1 add more categories to the game and populate the list of words.
+
 2 use score points to print the score of the player at the end of game.
