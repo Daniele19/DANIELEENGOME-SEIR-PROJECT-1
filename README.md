@@ -10,6 +10,8 @@ One important functionality of our game is the use of canvas methods to draw the
 case the player has not clicked the right button letter.
 
 SCREENSHOTS
+
+
 ![start](https://user-images.githubusercontent.com/57971424/191875328-5fafb13a-02ca-438b-b7b6-b738a67581a7.PNG)
 
 
